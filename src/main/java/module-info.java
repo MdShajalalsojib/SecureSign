@@ -4,6 +4,7 @@ module com.securesign.securesign {
     requires com.jfoenix;
 
 
+
     opens com.securesign.securesign to javafx.fxml;
     exports com.securesign.securesign;
 
